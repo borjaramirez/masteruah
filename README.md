@@ -7,6 +7,6 @@ cat id_rsa.pub
 ssh -vT git@github.com
 | Nombre  | GITHUB |
 | ------------- | ------------- |
-| Moliholy  | https://github.com/Moliholy |
-| lealp22 | https://github.com/lealp22/masteruah |
-| cyberjamonet  | https://github.com/cyberjamonet |
+| José Molina Colmero  | https://github.com/Moliholy |
+| Jesús Alberto Leal Pérez | https://github.com/lealp22/masteruah |
+| Sergio Avilés Pastor  | https://github.com/sergioaviles |
