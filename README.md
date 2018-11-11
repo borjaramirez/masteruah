@@ -7,4 +7,4 @@ cat id_rsa.pub
 ssh -vT git@github.com
 | Moliholy  | https://github.com/Moliholy |
 | lealp22 | https://github.com/lealp22/masteruah |
-| fanan23  | https://github.com/fanan23  |
+| cyberjamonet  | https://github.com/cyberjamonet  |
